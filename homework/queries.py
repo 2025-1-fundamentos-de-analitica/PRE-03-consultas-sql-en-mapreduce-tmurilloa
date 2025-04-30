@@ -3,7 +3,7 @@
 # pylint: disable=broad-exception-raised
 # pylint: disable=import-error
 
-from mapreduce import run_mapreduce_job # type: ignore
+from homework.mapreduce import run_mapreduce_job # type: ignore
 
 
 #
